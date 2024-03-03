@@ -1,0 +1,3 @@
+[submodule "ArrayAndCollections"]
+	path = ArrayAndCollections
+	url = git@github.com:SilasDavidson/BasicoJava.git
